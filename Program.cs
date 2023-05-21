@@ -86,6 +86,4 @@ app.UseCors(x => x
         .AllowAnyMethod()
         .AllowAnyHeader());
 
-
-
 app.Run();
